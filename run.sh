@@ -1,0 +1,1 @@
+docker run -it -d -v `pwd`:/developer -p 5000:80 mytensorflow:latest
